@@ -1,0 +1,13 @@
+{
+    "name": "jquery.selectBox",
+    "version": "1.12.1",
+    "main": [
+        "jquery.selectBox.js",
+        "jquery.selectBox.css"
+    ],
+    "ignore": [],
+    "license": "MIT",
+    "dependencies": {
+        "jquery": ">=1.6"
+    }
+}
